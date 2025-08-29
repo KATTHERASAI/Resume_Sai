@@ -11,6 +11,8 @@ At CGI, I managed scalable AWS environments using services like EC2, EKS, ELB, A
 
 I’m passionate about automation, cloud security, and performance monitoring using tools like Terraform, Prometheus, and Cloudwatch. I’m excited about the opportunity to bring my Devops expertise to a forward-thinking team like yours.
 Thank you for your time and consideration. I’d welcome the chance to discuss how I can support your Devops initiatives.
+
+
 Regards
 Saikrishna Katthera
 
